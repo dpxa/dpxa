@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/VB.NET-5E215C?logo=dotnet&logoColor=white" alt="VB.NET">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpxa&layout=compact&langs_count=5" alt="Top Langs">
+  <img src="./profile/langs.svg" alt="Top Langs" />
 </div>
