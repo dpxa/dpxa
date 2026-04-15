@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Information Systems Development Intern @ AAA | CS Student @ UCR-87CEEB?style=for-the-badge" alt="Information Systems Development Intern at AAA and CS Student at UCR">
-  <br>
+<img src="https://img.shields.io/badge/Information_Systems_Development_Intern-AAA-f1fa8c?style=for-the-badge&labelColor=282a36" alt="AAA Intern">
+<img src="https://img.shields.io/badge/CS_Student-UC_Riverside-f1fa8c?style=for-the-badge&labelColor=282a36" alt="UCR Student">
   
-  ### Expertise In:
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java">
-  <br>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE" alt="PowerShell">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/VB.NET-5E215C?logo=dotnet&logoColor=white" alt="VB.NET">
-  <br>
-  <br>
-  <img src="./profile/langs.svg" alt="Top Langs" />
+### Expertise In:
+
+<img src="https://img.shields.io/badge/Java-bd93f9?style=for-the-badge&labelColor=282a36&logo=openjdk" alt="Java">
+<img src="https://img.shields.io/badge/Python-bd93f9?style=for-the-badge&labelColor=282a36&logo=python" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-bd93f9?style=for-the-badge&labelColor=282a36&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/C++-bd93f9?style=for-the-badge&labelColor=282a36&logo=cplusplus" alt="C++">
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-bd93f9?style=for-the-badge&labelColor=282a36&logo=nodedotjs" alt="Node.js">
+<img src="https://img.shields.io/badge/PowerShell-bd93f9?style=for-the-badge&labelColor=282a36&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgaWQ9IlBvd2VyU2hlbGwiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMjA0LjY5MXB4IiBoZWlnaHQ9IjE1NC41MjFweCIgdmlld0JveD0iMCAwIDIwNC42OTEgMTU0LjUyMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjA0LjY5MSAxNTQuNTIxOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnPgoJPHBhdGggc3R5bGU9ImRpc3BsYXk6bm9uZTtmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiMyNjcxQkU7IiBkPSJNLTQ3LjU0NywyMjYuODcyICAgYzAtOTcuMTI5LDAuMDk0LTE5NC4yNTktMC4xOTUtMjkxLjM4N2MtMC4wMjEtNi45ODIsMS40MDQtOC40MTEsOC4zODgtOC4zODljOTQuMzk3LDAuMjkyLDE4OC43OTgsMC4yOTIsMjgzLjE5NSwwICAgYzYuOTg0LTAuMDIyLDguNDEsMS40MDcsOC4zODksOC4zODljLTAuMjg5LDk3LjEyOC0wLjE5NSwxOTQuMjU4LTAuMTk1LDI5MS4zODdjLTMuMjM4LDIuMDA4LTYuODM3LDEuMTI5LTEwLjI2OCwxLjEzMSAgIGMtOTMuMDE1LDAuMDQ5LTE4Ni4wMzEsMC4wNDktMjc5LjA0NywwQy00MC43MTEsMjI4LjAwMS00NC4zMSwyMjguODgtNDcuNTQ3LDIyNi44NzJ6Ij48L3BhdGg+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojRTBFQUY1OyIgZD0iTTEyMC4xNCwwLjAzMmMyMy4wMTEtMC4wMDgsNDYuMDIzLTAuMDc4LDY5LjAzNCwwLjAxOSAgIGMxMy42OCwwLjA1NiwxNy41MzcsNC42MjcsMTQuNTg4LDE4LjEzN2MtOC42MzYsMzkuNTY2LTE3LjQ2Niw3OS4wOTItMjYuNDE1LDExOC41ODljLTIuODMsMTIuNDg0LTkuMzMyLDE3LjU5OC0yMi40NjUsMTcuNjM3ICAgYy00Ni4wMjMsMC4xMzctOTIuMDQ2LDAuMTUyLTEzOC4wNjgtMC4wMDZjLTE1LjA0My0wLjA1My0xOS01LjE0OC0xNS43NTktMTkuNDA0QzkuODQ5LDk2LjI4NywxOC42OSw1Ny41ODIsMjcuNjAyLDE4Ljg5MiAgIEMzMC45OTcsNC4xNDgsMzYuMDk5LDAuMSw1MS4xMDQsMC4wNTdDNzQuMTE2LTAuMDA4LDk3LjEyOCwwLjA0LDEyMC4xNCwwLjAzMnoiPjwvcGF0aD4KCTxwYXRoIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiMyNjcxQkU7IiBkPSJNODUuMzY1LDE0OS44MTNjLTIzLjAxNC0wLjAwOC00Ni4wMjksMC4wOTgtNjkuMDQyLTAuMDUzICAgYy0xMS42Ny0wLjA3Ni0xMy43OTItMi44My0xMS4xNjUtMTQuMjQ0YzguOTA2LTM4LjcxLDE4LjA5OS03Ny4zNTUsMjYuODA3LTExNi4xMDlDMzQuMyw5LjAxMywzOS4zMzcsNC40MTksNTAuNDczLDQuNTIyICAgYzQ2LjAyNCwwLjQyNyw5Mi4wNTYsMC4xMzcsMTM4LjA4MywwLjE4NGMxMS41NDMsMC4wMTEsMTMuNDgxLDIuNDgsMTAuODksMTQuMTg3Yy04LjQxMywzOC4wMDctMTYuODc5LDc2LjAwMy0yNS40OTQsMTEzLjk2NSAgIGMtMy4yMjQsMTQuMjA3LTYuOTM4LDE2LjkxOC0yMS44ODUsMTYuOTUxQzEyOS44MzMsMTQ5Ljg1NiwxMDcuNTk4LDE0OS44MjEsODUuMzY1LDE0OS44MTN6Ij48L3BhdGg+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojRkRGREZFOyIgZD0iTTEwNC45NDgsNzMuOTUxYy0xLjU0My0xLjgxLTMuMjM3LTMuODk0LTUuMDMxLTUuODg2ICAgYy0xMC4xNzMtMTEuMy0yMC4yNTYtMjIuNjg0LTMwLjYxLTMzLjgxNWMtNC43MzgtNS4wOTQtNi4yNDgtMTAuMDQxLTAuNTU4LTE1LjA2OWM1LjYyMy00Ljk3LDExLjE0OC00LjUzLDE2LjMwNiwxLjE4OCAgIGMxNC4zNjUsMTUuOTE5LDI4LjcxMywzMS44NTYsNDMuMzE2LDQ3LjU1NmM1LjQ1Miw1Ljg2NCw0LjE4Miw5Ljg1MS0xLjgyMywxNC4xOTZjLTIzLjA0OSwxNi42ODMtNDUuOTY4LDMzLjU0Ny02OC44NjIsNTAuNDQzICAgYy01LjE0NiwzLjc5OS0xMC4wNTIsNC43NS0xNC4yMDktMC44NjFjLTQuNTg2LTYuMTg5LTAuMzQzLTkuODcxLDQuNDE0LTEzLjMzNWMxNy4wMTMtMTIuMzkyLDMzLjk5My0yNC44Myw1MC45LTM3LjM2NiAgIEMxMDEuMTQ2LDc5LjI1NiwxMDQuNTI3LDc4LjIzOCwxMDQuOTQ4LDczLjk1MXoiPjwvcGF0aD4KCTxwYXRoIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiNGQ0ZERkQ7IiBkPSJNMTEyLjIzNSwxMzMuODE5Yy02LjE5NiwwLTEyLjQwMSwwLjIxMy0xOC41ODMtMC4wNjggICBjLTQuOTMyLTAuMjIzLTcuOS0yLjk3OS03LjgzOC04LjE3NGMwLjA2LTQuOTEyLDIuNTM2LTguNjA1LDcuNDYzLTguNzM4YzEzLjU0Mi0wLjM2MywyNy4xMDQtMC4yODUsNDAuNjUxLTAuMDIgICBjNC4zMDUsMC4wODQsNy40ODMsMi44ODksNy40NTcsNy4zNzVjLTAuMDMxLDUuMTQ2LTIuNzM5LDkuMTMzLTguMjUsOS40NjVjLTYuOTQ0LDAuNDItMTMuOTMxLDAuMTA0LTIwLjg5OSwwLjEwNCAgIEMxMTIuMjM1LDEzMy43OCwxMTIuMjM1LDEzMy44LDExMi4yMzUsMTMzLjgxOXoiPjwvcGF0aD4KPC9nPgo8L3N2Zz4K&logoColor=white" alt="PowerShell">
+<br><br>
+
+<img src="./profile/langs.svg" alt="Top Langs" width="400" />
 </div>
